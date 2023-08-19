@@ -5,25 +5,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -35,25 +35,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -65,25 +65,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zzombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -95,25 +95,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zzombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -125,25 +125,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zzombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -155,25 +155,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zzombiePistolBusinessManPLUS, .025
+		zombiePistolBusinessManPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -185,25 +185,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zzombiePistolBusinessManPLUS, .025
+		zombiePistolBusinessManPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -215,25 +215,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zzombiePistolBusinessManPLUS, .025
+		zombiePistolBusinessManPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -245,25 +245,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zzombiePistolBusinessManPLUS, .025
+		zombiePistolBusinessManPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -275,25 +275,25 @@
 		animalZombieBunnyPLUS, .1
 		animalZombieSnakePLUS, .1
 		animalZombieChickenPLUS, .1
-		zombieSMGArlenePLUS, .1
-		zombieTARifleSoldierPLUS, .1
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
 		zombieBatonHazmatPLUS, .1
 		zombieSteelAxeLumberjackPLUS, .1
 		zombieMachetePartyGirlPLUS, .1
-		zombiePistolBusinessManPLUS, .1
-		zombieNailgunUtilityWorkerPLUS, .1
-		zombieSniperBoePLUS, .1
+		zzombiePistolBusinessManPLUS, .025
+		zombiePistolBusinessManPLUS, .05
+		zombieSniperBoePLUS, .025
 		zombieChainsawMoePLUS, .1
-		zombieDesertVultureTomClarkPLUS, .1
-		zombiePumpShotgunBikerPLUS, .1
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
 		zombieBatonFatCopPLUS, .1
 		zombieSteelClubFemaleFatPLUS, .1
-		zombieBoltNursePLUS, .1
+		zombieBoltNursePLUS, .05
 		zombieSteelSledgehammerFatHawaiianPLUS, .1
 		animalZombieLargePlasmaVulturePLUS, .05
 		zombieSpiderFeralBomberPLUS, .05
 		zombieSpiderFeralGliderPLUS, .05
-		zombieM60DemolitionPLUS, .05
+		zombieM60DemolitionPLUS, .025
 		animalBossZombieGracePLUS, .05
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
@@ -1799,7 +1799,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -1828,7 +1828,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -1857,7 +1857,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -1886,7 +1886,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -1915,7 +1915,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -1944,7 +1944,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -1973,7 +1973,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2002,7 +2002,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2031,7 +2031,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2060,7 +2060,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2089,7 +2089,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2118,7 +2118,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2147,7 +2147,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2176,7 +2176,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2205,7 +2205,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2234,7 +2234,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2263,7 +2263,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2292,7 +2292,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2321,7 +2321,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2350,7 +2350,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2379,7 +2379,7 @@
 			animalZombieLargePlasmaVulturePLUS, .05
 			zombieSpiderFeralBomberPLUS, .05
 			zombieSpiderFeralGliderPLUS, .05
-			zombieM60DemolitionPLUS, .05
+			zombieM60DemolitionPLUS, .025
 			animalBossZombieGracePLUS, .05
 			zombieWightRadiationShowerPLUS, .05
 			zombieBogeymanPLUS, .05
@@ -2390,20 +2390,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2419,20 +2419,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2448,20 +2448,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2477,20 +2477,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2506,20 +2506,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2535,20 +2535,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2564,20 +2564,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2593,20 +2593,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2622,20 +2622,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2651,20 +2651,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2680,20 +2680,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2709,20 +2709,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2738,20 +2738,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2767,20 +2767,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2796,20 +2796,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2825,20 +2825,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2854,20 +2854,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2883,20 +2883,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2912,20 +2912,20 @@
 			animalZombieBunnyPLUS, .1
 			animalZombieSnakePLUS, .1
 			animalZombieChickenPLUS, .1
-			zombieSMGArlenePLUS, .1
-			zombieTARifleSoldierPLUS, .1
+			zombieSMGArlenePLUS, .025
+			zombieTARifleSoldierPLUS, .025
 			zombieBatonHazmatPLUS, .1
 			zombieSteelAxeLumberjackPLUS, .1
 			zombieMachetePartyGirlPLUS, .1
-			zombiePistolBusinessManPLUS, .1
-			zombieNailgunUtilityWorkerPLUS, .1
-			zombieSniperBoePLUS, .1
+			zzombiePistolBusinessManPLUS, .025
+			zombiePistolBusinessManPLUS, .05
+			zombieSniperBoePLUS, .025
 			zombieChainsawMoePLUS, .1
-			zombieDesertVultureTomClarkPLUS, .1
-			zombiePumpShotgunBikerPLUS, .1
+			zombieDesertVultureTomClarkPLUS, .025
+			zombiePumpShotgunBikerPLUS, .025
 			zombieBatonFatCopPLUS, .1
 			zombieSteelClubFemaleFatPLUS, .1
-			zombieBoltNursePLUS, .1
+			zombieBoltNursePLUS, .05
 			zombieSteelSledgehammerFatHawaiianPLUS, .1
 			animalZombieLargePlasmaVulturePLUS, .075
 			zombieSpiderFeralBomberPLUS, .075
@@ -2941,20 +2941,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -2970,20 +2970,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -2999,20 +2999,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3028,20 +3028,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3057,20 +3057,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3086,20 +3086,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3115,20 +3115,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3144,20 +3144,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3173,20 +3173,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3202,20 +3202,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3231,20 +3231,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3260,20 +3260,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3289,20 +3289,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3318,20 +3318,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3347,20 +3347,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3376,20 +3376,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3405,20 +3405,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3434,20 +3434,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3463,20 +3463,20 @@
 			animalZombieBunnyPLUS, .15
 			animalZombieSnakePLUS, .15
 			animalZombieChickenPLUS, .15
-			zombieSMGArlenePLUS, .15
-			zombieTARifleSoldierPLUS, .15
+			zombieSMGArlenePLUS, .0255
+			zombieTARifleSoldierPLUS, .0255
 			zombieBatonHazmatPLUS, .15
 			zombieSteelAxeLumberjackPLUS, .15
 			zombieMachetePartyGirlPLUS, .15
-			zombiePistolBusinessManPLUS, .15
-			zombieNailgunUtilityWorkerPLUS, .15
-			zombieSniperBoePLUS, .15
+			zzombiePistolBusinessManPLUS, .0255
+			zombiePistolBusinessManPLUS, .055
+			zombieSniperBoePLUS, .0255
 			zombieChainsawMoePLUS, .15
-			zombieDesertVultureTomClarkPLUS, .15
-			zombiePumpShotgunBikerPLUS, .15
+			zombieDesertVultureTomClarkPLUS, .0255
+			zombiePumpShotgunBikerPLUS, .0255
 			zombieBatonFatCopPLUS, .15
 			zombieSteelClubFemaleFatPLUS, .15
-			zombieBoltNursePLUS, .15
+			zombieBoltNursePLUS, .055
 			zombieSteelSledgehammerFatHawaiianPLUS, .15
 			animalZombieLargePlasmaVulturePLUS, .1
 			zombieSpiderFeralBomberPLUS, .1
@@ -3492,20 +3492,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3521,20 +3521,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3550,20 +3550,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3579,20 +3579,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3608,20 +3608,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3637,20 +3637,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3666,20 +3666,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3695,20 +3695,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3724,20 +3724,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3753,20 +3753,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3782,20 +3782,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3811,20 +3811,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3840,20 +3840,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3869,20 +3869,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3898,20 +3898,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3927,20 +3927,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
@@ -3956,20 +3956,20 @@
 			animalZombieBunnyPLUS, .175
 			animalZombieSnakePLUS, .175
 			animalZombieChickenPLUS, .175
-			zombieSMGArlenePLUS, .175
-			zombieTARifleSoldierPLUS, .175
+			zombieSMGArlenePLUS, .02575
+			zombieTARifleSoldierPLUS, .02575
 			zombieBatonHazmatPLUS, .175
 			zombieSteelAxeLumberjackPLUS, .175
 			zombieMachetePartyGirlPLUS, .175
-			zombiePistolBusinessManPLUS, .175
-			zombieNailgunUtilityWorkerPLUS, .175
-			zombieSniperBoePLUS, .175
+			zzombiePistolBusinessManPLUS, .02575
+			zombiePistolBusinessManPLUS, .0575
+			zombieSniperBoePLUS, .02575
 			zombieChainsawMoePLUS, .175
-			zombieDesertVultureTomClarkPLUS, .175
-			zombiePumpShotgunBikerPLUS, .175
+			zombieDesertVultureTomClarkPLUS, .02575
+			zombiePumpShotgunBikerPLUS, .02575
 			zombieBatonFatCopPLUS, .175
 			zombieSteelClubFemaleFatPLUS, .175
-			zombieBoltNursePLUS, .175
+			zombieBoltNursePLUS, .0575
 			zombieSteelSledgehammerFatHawaiianPLUS, .175
 			animalZombieLargePlasmaVulturePLUS, .125
 			zombieSpiderFeralBomberPLUS, .125
